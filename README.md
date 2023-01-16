@@ -1,4 +1,4 @@
-# Maven-Pizza-Challenge-using-BI-tool-PowerBI
+# Maven-Analytics'-Pizza-Sales-using-BI-tool-PowerBI
 Analysis by Revenue, Orders, Peak days/Hours, Pizza
 
 **Business Understanding**
