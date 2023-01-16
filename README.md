@@ -3,6 +3,8 @@ Analysis by Revenue, Orders, Peak days/Hours, Pizza
 
 **Business Understanding**
 
+A Pizza Chain needed an executive-level business intelligence (BI) solution to track key performance indicators (KPIs) and analyze data from various sources.
+
 I tried to answered some questions posed by Maven Analytics to be able to answer:
 
 * What days and times do we tend to be busiest?
